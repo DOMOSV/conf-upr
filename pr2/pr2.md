@@ -119,25 +119,7 @@ Location: C:\Users\vlaso\PycharmProjects\hu\.venv\Lib\site-packages
 Requires: contourpy, cycler, fonttools, kiwisolver, numpy, packaging, pillow, pyparsing, python-dateutil
 Required-by:
 
-
-### Пояснение.
-Name - название пакета.
-
-Version - указывает текущую версию пакета.
-
-Summary - краткое описание пакета.
-
-Home-page - ссылка на официальный сайт проекта или репозиторий.
-
-Author - имя автора или группы авторов, которые разработали пакет.
-
-Author-email - контактный email автора или разработчиков.
-
-License - лицензия, под которой распространяется пакет.
-
-Location - путь к директории, где установлен пакет.
-
-Requires - список зависимостей, необходимых для работы пакета.
+````
 
 ### Решение. 2 часть.
 
@@ -160,7 +142,7 @@ Requires - список зависимостей, необходимых для 
 
 ### Результат.
 ```
-(.venv) PS C:\Users\vlaso\PycharmProjects\hu>npm show express
+C:\Users\vlaso>npm show express
 
 express@4.21.0 | MIT | deps: 31 | versions: 279
 Fast, unopinionated, minimalist web framework
